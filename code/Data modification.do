@@ -1,3 +1,4 @@
+***Tasks 6, 7 and 8
 clear
 use "C:\Users\navaei_amirhooshang\Documents\Coding-Final Exam\Data\wfh_tidy_person.csv"
 
