@@ -1,4 +1,4 @@
 clear
+*using a sample of "working from home experiment" from Gabors Data Analysis website
 import delimited "https://osf.io/5c3rf/download"
-save "C:\Users\navaei_amirhooshang\Documents\Coding-Final Exam\Data\wfh_tidy_person.csv", replace
-use "C:\Users\navaei_amirhooshang\Documents\Coding-Final Exam\Data\wfh_tidy_person.csv"
+save "Data\wfh_tidy_person.csv", replace
